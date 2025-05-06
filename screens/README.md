@@ -2,7 +2,7 @@
 
 ## court - edytor tras
 
-Screeny z edytora tras znajdują się w folderze Court.
+Screeny z edytora tras znajdują się w folderze court.
 
 Postanowiłem trochę rozszerzyć to zadanie, aby było użyteczne dla mojej strony. Tutaj użytkownik może definiować animacje, składające się z wielu tras jednocześnie.
 
